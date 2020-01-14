@@ -7,6 +7,8 @@ Page length: <b>346</b>
 
 Author Ethan Brown teaches you Express fundamentals by walking you through the development of an example application. This hands-on guide covers everything from server-side rendering to API development suitable for use in single-page apps (SPAs)
 
+Companion Repository: (https://github.com/EthanRBrown/web-development-with-node-and-express-2e)
+
 _This repo is a collection of the work I will be completing for the book listed_
 
 ### Course Outline:
