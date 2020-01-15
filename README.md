@@ -16,7 +16,7 @@ _This repo is a collection of the work I will be completing for the book listed_
 Section 1: Introducing Express &check; <br>
 Section 2: Getting Started with Node &check; <br>
 Section 3: Saving Time with Express &check; <br>
-Section 4: Tidying Up <br>
+Section 4: Tidying Up &check; <br>
 Section 5: Quality Assurance <br>
 Section 6: The Request and Response Objects <br>
 Section 7: Templating with Handlebars <br>
