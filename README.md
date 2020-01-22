@@ -18,7 +18,7 @@ Section 2: Getting Started with Node &check; <br>
 Section 3: Saving Time with Express &check; <br>
 Section 4: Tidying Up &check; <br>
 Section 5: Quality Assurance &check; <br>
-Section 6: The Request and Response Objects <br>
+Section 6: The Request and Response Objects &check; <br>
 Section 7: Templating with Handlebars <br>
 Section 8: Form Handling <br>
 Section 9: Cookies and Sessions <br>
